@@ -1,0 +1,153 @@
+body{
+    background-color: #1e88e5;
+}
+.Narvab{
+    background-color: #0d47a1;
+    border: nones;
+}
+.botones{
+    background-color: #69A9E0;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+.icontrello{
+    margin-left: 10px;
+}
+.logo{
+    width: 150px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 180px;
+    background-color: transparent;
+}
+.user{
+    background-color:#69A9E0;
+    margin-top: 5px;
+    margin-left: 480px;
+}
+.plus{
+    background-color:#69A9E0;
+    margin-top: 5px;
+}
+
+/* Seccion añadir lista */
+.flex-item {
+    display: -webkit-flex;
+    display: flex;
+    background-color: #0d47a1;
+    width: 300px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+}
+.flex-item h4{
+    text-align: center;
+}
+.flex-item:hover{
+    background-color: #1a237e;
+}
+.formulario{
+    background-color: #C9CECB;
+    width: 310px;
+    height: 100px;
+    border-radius: 5px;
+    margin-left: -54px;
+    margin-top: 40px;
+}
+#guardar{
+    margin-left: 10px;
+}
+#elimina{
+    margin-left: 10px;
+}
+.texto{
+    background-color: #878A88;
+}
+.divFormulario{
+    margin-top: -40px;
+    z-index: 1;
+}
+.tarjeta{
+    background-color: #C9CECB;
+    width: 307px;
+    height: 130px;
+    border-radius: 5px;
+    margin-left: -54px;
+    margin-top: 40px;
+    z-index: 1;
+}
+.tarjeta textarea{
+    margin-bottom: 5px;
+}
+.tarjeta button{
+    margin-left: 10px;
+}
+.divTarjeta{
+    width: 400px;
+    height: 100px;
+    z-index: 1;
+    margin-left: -256px;
+    margin-top: -40px;
+}
+.divTarjeta label{
+    color: #575151;
+    font-size: 2em;
+    margin-left: 10px;
+    display: inherit;
+    margin-left: 10px;
+}
+.divTarjeta a{
+    color: #575151;
+    font-size: 2em;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.divTarjeta a:hover{
+    color: #1D1C1C;
+}
+.cajacontenido{
+    width: 400px;
+    height: 100px;
+    z-index: 1;
+    margin-left: -300px;
+    margin-top: -40px;
+    color: black;
+}
+.listas{
+    background-color: #C9CECB;
+    width: 308px;
+    height: 167px;
+    border-radius: 5px;
+    margin-left: -54px;
+    margin-top: 40px;
+    z-index: 1;
+}
+.listas button{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.divLista{
+    z-index: 1;
+    color: black;
+    margin-left: -255px;
+    margin-top: -40px;
+}
+.divLista label{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.listitas{
+    background-color: #797777;
+    margin-top: 15px;
+    margin-left: 18px;
+    color: black;
+}
+.listitas p{
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.divLista textarea{
+    margin-top: 20px;
+}
